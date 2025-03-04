@@ -47,7 +47,17 @@
    
 <br/>  
 
-<a href="https://komarev.com/ghpvc/?username=mohamedelkashef15&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=mohamedelkashef15&style=for-the-badge">
+<br/>
+<div align="center"> 
+  <a href="mailto:touraddah387@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank"/> 
+  </a>
+   <a href="https://www.facebook.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
+
+</div>
 <br/>
