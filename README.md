@@ -28,7 +28,7 @@ I'm a Full Stack developer with a strong passion for creating visually appealing
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![ReactJs](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=react)
+![ReactJs](	https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&hide_progress=true) -->
