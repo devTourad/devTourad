@@ -46,7 +46,7 @@ I'm a Full Stack developer with a strong passion for creating visually appealing
     <img src="https://komarev.com/ghpvc/?username=mohamedelkashef15&style=for-the-badge">
 </a>
 <table>
-  <tr>
+  <tr>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devTourad&hide_progress=true)
     <th>
 <br>
 </th>
