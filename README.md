@@ -38,7 +38,7 @@ I'm a Full Stack developer with a strong passion for creating visually appealing
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&hide_progress=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev Tourad_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=_progress=true)
 <br>
 <a href="https://komarev.com/ghpvc/?username=mohamedelkashef15&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=mohamedelkashef15&style=for-the-badge">
