@@ -30,6 +30,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](	https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 ![Django.py](	https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Django.py](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)
 ![sqllite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![postgree](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
