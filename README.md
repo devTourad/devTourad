@@ -42,6 +42,7 @@ I'm a Full Stack developer with a strong passion for creating visually appealing
 <div align="center">
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=devtourad&custom_title=Tourad's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=none&color=417E87&line=1E90FF&point=417E87&area_color=none&title_color=417E87&area=true" alt="GitHub Activity Graph" />
 <br>
+  
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&hide_progress=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devTourad&hide_progress=true)
 <br>
