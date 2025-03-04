@@ -50,9 +50,9 @@ I'm a Full Stack developer with a strong passion for creating visually appealing
 
  <table>
   <tr>
-    <th><img src="https://leetcode-status.vercel.app/api/card/Tourad?theme=transparent&&logo=false&logo_color=theme"/>
+    <th>
 </th>
-    <th><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iyehah&theme=transparent&hide_border=true"></th>
+    <th><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devtourad&theme=transparent&hide_border=true"></th>
   </tr>
 </table>
    
