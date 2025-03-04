@@ -37,7 +37,7 @@
 <div align="center">
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=devtourad&custom_title=Tourad's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=none&color=417E87&line=1E90FF&point=417E87&area_color=none&title_color=417E87&area=true" alt="GitHub Activity Graph" />
 <br>
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
    
 <br/>  
 
