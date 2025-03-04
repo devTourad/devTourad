@@ -23,17 +23,17 @@
 </p>
 
 ### 🛠 &nbsp;Technologies that I work with
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![Botstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Botstrap](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](	https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
-![Django.py](	https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Django.py](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)
-![sqllite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![postgree](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3)
+![Botstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Botstrap](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![Python](	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Django.py](	https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django.py](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-000000?style=for-the-badge&logo=wordpress)
+![sqllite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![postgree](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <div align="center">
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=devtourad&custom_title=Tourad's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=none&color=417E87&line=1E90FF&point=417E87&area_color=none&title_color=417E87&area=true" alt="GitHub Activity Graph" />
