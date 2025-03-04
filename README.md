@@ -27,10 +27,15 @@ I'm a Full Stack developer with a strong passion for creating visually appealing
 ### 🛠 &nbsp;Technologies that I work with
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![ReactJs](	https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)
 ![Botstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Botstrap](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](	https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+![Django.py](	https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)
+![sqllite]((https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white))
+![postgree](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&hide_progress=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&layout=compact)
