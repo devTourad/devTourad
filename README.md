@@ -3,9 +3,7 @@
   Hi There I'm Tourad Med Mahmoud Dahe
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-<p>
-I'm a Full Stack developer with a strong passion for creating visually appealing and user-friendly websites. 
-</p>
+
 
 - 👨‍💻 I am a student at the Higher Institute of Accounting and Institutional Management, specializing in management Informatique Technelogie(IT).
 - 📚 I’m currently learning about Frontend and Backend technologies.
