@@ -33,7 +33,7 @@ I'm a Full Stack developer with a strong passion for creating visually appealing
 ![Python](	https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 ![Django.py](	https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)
-![sqllite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white))
+![sqllite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![postgree](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 
