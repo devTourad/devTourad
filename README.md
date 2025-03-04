@@ -1,8 +1,8 @@
-
-<h1 >
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&width=900&color=006AFF&height=70&duration=3000&lines=Hi+There!;+I'm+Tourad+Dah;I+am+a+full-stack+developer" />
-</h1>
 <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
+<h1>
+  Hi There I'm Tourad Med Mahmoud Dahe
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 <p>
 I'm a Full Stack developer with a strong passion for creating visually appealing and user-friendly websites. 
 </p>
