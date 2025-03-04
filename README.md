@@ -7,7 +7,7 @@
 I'm a Full Stack developer with a strong passion for creating visually appealing and user-friendly websites. 
 </p>
 
-- 👨‍💻 I am a student at the Higher Institute of Accounting and Institutional Management, specializing in management Informatique Technelogie(IT). like JavaScript & React.
+- 👨‍💻 I am a student at the Higher Institute of Accounting and Institutional Management, specializing in management Informatique Technelogie(IT).
 - 📚 I’m currently learning about Frontend and Backend technologies.
 - 🎯 Future Goals: Learn more web technologies - Cyber security .
   
