@@ -5,10 +5,22 @@
 </h1>
 
 
-- 👨‍💻 I am a student at the Higher Institute of Accounting and Institutional Management, specializing in management Informatique Technelogie(IT).
-- 📚 I’m currently learning about Frontend and Backend technologies.
-- 🎯 Future Goals: Learn more web technologies - Cyber security .
-  
+I'm Tourad dah a 19-year-old tech enthusiast with a passion for programming and web app development.
+I've been immersed in the world of technology, constantly learning and building new projects. Currently, Curently I study at the Higher Institute of Accounting and Institutional Management, specializing in management Informatique Technelogie(IT),aiming to combine my skills in web technologies and  Cyber security  to create innovative solutions.
+
+## 🎓 Education
+- **Student**: Cybersecurity
+- **Year**: Second-year college student
+- **Graduation**: Expected in 2026
+
+## 💻 My Tech Journey
+- starting with simple web projects and quickly expanding to full-stack development.
+- Passionate about **Django.py** and **Laravel**, which have become my go-to tools for building scalable and efficient web applications.
+
+## 🚀 My Current Focus
+- Learning **Full Stack.** 
+- Building secure and scalable backend services, exploring advanced topics like microservices, security.
+
 - 📫 Social links
 <p>
 <a href=""><img
