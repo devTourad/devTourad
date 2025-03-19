@@ -21,7 +21,7 @@ I've been immersed in the world of technology, constantly learning and building 
 - Learning **Full Stack.** 
 - Building secure and scalable backend services, exploring advanced topics like microservices, security.
 
-#### 📫 Social links
+## 📫 Social links
 <p>
 <a href=""><img
     src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
