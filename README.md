@@ -9,7 +9,7 @@ I'm Tourad dah tech enthusiast with a passion for programming and web app develo
 I've been immersed in the world of technology, constantly learning and building new projects. Currently, Curently I study at the Higher Institute of Accounting and Institutional Management, specializing in management Informatique Technelogie(IT),aiming to combine my skills in web technologies and  Cyber security  to create innovative solutions.
 
 ## 🎓 Education
-- **Student**: Cybersecurity
+- **Student**: management Informatique Technelogie(MIT)
 - **Year**: Second-year college student
 - **Graduation**: Expected in 2026
 
