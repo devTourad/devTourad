@@ -51,7 +51,8 @@ I've been immersed in the world of technology, constantly learning and building 
 ![JAVA](https://img.shields.io/badge/JAVA-4169E1?style=for-the-badge&logo=JAVA&logoColor=white)
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devtourad&layout=compact)   
+<br/>  
 
 
 <div align="center">
@@ -61,8 +62,7 @@ I've been immersed in the world of technology, constantly learning and building 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devtourad" />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devtourad&layout=compact)   
-<br/>  
+
 
 <br/>
 <div align="center"> 
