@@ -40,12 +40,19 @@ I've been immersed in the world of technology, constantly learning and building 
 ![Botstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Botstrap](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![Nextjs](https://img.shields.io/badge/Nextjs-4169E1?style=for-the-badge&logo=Nextjs&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Django.py](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-4169E1?style=for-the-badge&logo=Laravel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=for-the-badge&logo=wordpress)
 ![sqllite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![postgree](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-4169E1?style=for-the-badge&logo=JAVA&logoColor=white)
+
+
+
+
 
 <div align="center">
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=devtourad&custom_title=Tourad's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=none&color=417E87&line=1E90FF&point=417E87&area_color=none&title_color=417E87&area=true" alt="GitHub Activity Graph" />
