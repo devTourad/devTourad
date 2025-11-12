@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
+<img align="right" src="https://share.google/images/cS0wbGCHuTyo93hQ4" width="30%">
 
 <h1 color=006AFF>
   Hi There, I'm Tourad Med Mahmoud Dahe
@@ -86,4 +86,4 @@ Today, I’m focusing on creating *modern secure systems, mastering **penetratio
 <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/-YouTube-c4302b?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="mailto:touraddah387@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"></a>
-</p><img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
+</p>
