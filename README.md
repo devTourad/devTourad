@@ -12,31 +12,30 @@ My goal is to merge *web technologies* and *cybersecurity* to craft secure, scal
 
 ---
 
-## 🎓 Education
+##  Education
 - *Student:* Management Informatique Technologique (MIT)
 - *Year:* Third-year college student
 - *Graduation:* Expected in 2026
 
 ---
 
-## 💻 My Tech Journey
+##  My Tech Journey
 I started my journey with simple static websites and quickly transitioned into *full-stack application development*.  
-Over time, I’ve completed *500+ algorithmic quizzes*, improving my logical thinking and problem-solving ability.  
+Over time, I’ve completed *500+ algorithmic quizzes with python*, improving my logical thinking and problem-solving ability.  
 Today, I’m focusing on creating *modern secure systems, mastering **penetration testing*, and contributing to open-source projects.
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 - Advancing in *Full Stack Development* using *Django, **Laravel, **Angular, and **Next.js*  
 - Exploring *microservices, **API security, and **DevOps tools (Docker, Git)*  
 - Growing as a *Penetration Tester* and *Tech Reader*
 
 ---
 
-## 🧠 Roles & Interests
-- 💻 Full Stack Developer  
-- 🛡 Penetration Tester  
-- 📚 Tech & Cybersecurity Reader  
+##  Roles & Interests
+- Full Stack Developer  
+-  Penetration Tester Reader
 
 ---
 
